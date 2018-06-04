@@ -1,1 +1,4 @@
 These are JRE's to be used with Spark.
+
+Use mssql-jdbc-6.2.1-jre7.jar to connect to Microsoft Sql Server
+Use Ojdbc to connect to Oracle SQL Server.
